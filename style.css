@@ -1,0 +1,32 @@
+h1 {
+    color:red;
+
+}
+/* command+slash */
+h2 {
+    color:blue;
+    size:30px;
+
+    text-align:center;
+    border:10px black dotted;
+    background-color: pink;
+padding-top:20px;
+padding-bottom: 20px;
+margin-top: 20px;
+margin-bottom: 50px;
+    border-color:black;
+    border-radius: 30px;
+
+}
+
+.title{
+    background-color: grey;
+}
+
+#critical {
+    color:yellow;
+}
+
+#non {
+    text-decoration:dotted;
+}
